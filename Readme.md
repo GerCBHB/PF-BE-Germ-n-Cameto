@@ -3,7 +3,7 @@
 ## Instalación
 Para bajar la aplicación de github escribir el siguiente comando en la terminal:
 ```
-git clone [(https://github.com/DanielGitHubSantilli/PF_BE_Santilli}]
+git clone [(https://github.com/GerCBHB/PF-BE-Germ-n-Cameto}]
 ```
 
 Luego asegurarse de instalar todas las dependencias con el siguiente comando:
